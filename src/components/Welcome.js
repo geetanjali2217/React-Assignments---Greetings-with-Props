@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 const Greeting= (props) =>{
   return (
     <>
-  <h1>Hey!,{props.name}</h1>
+  <h1>Hey,{props.name}!</h1>
     <h2>Welcome to Newton School</h2>
     </>
     );
